@@ -6,6 +6,6 @@
 - 💬 Ask me about laravel or React.JS 
 - 📫 How to reach me: otienoelvis13@gmail.com
 - 😄 Pronouns: HI
-- ⚡ Fun fact: - I am a HackerOnSteroids👻 *Ethical
+- ⚡ Fun fact: - I am a HackerOnSteroids👻 *Ethical*
 
 
